@@ -3,3 +3,4 @@ merge = unir ramas (branches)
 pull = fetch + merge
 push = subir a rep remoto
 head = ubicacion actual (branch actual)
+git branch nombrederama = crear rama
